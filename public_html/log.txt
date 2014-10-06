@@ -17024,3 +17024,133 @@ Script: /forex-trading/trading-conditions/index.php
 	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:552
 	/home/f/forsagc/rinkost/public_html/bitrix/components/bitrix/system.auth.form/component.php:190
 ----------
+Host: rinkost.forsagc.tmweb.ru
+Date: 2014-10-06 11:58:09
+Module: Composite was rejected
+Reason: /bitrix/templates/.default/components/bitrix/socserv.auth.form/icons/template.php
+Request URI: /
+Script: /index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:516
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:582
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:603
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:552
+	/home/f/forsagc/rinkost/public_html/bitrix/components/bitrix/socserv.auth.form/component.php:29
+----------
+Host: rinkost.forsagc.tmweb.ru
+Date: 2014-10-06 11:58:09
+Module: Composite was rejected
+Reason: /bitrix/templates/.default/components/bitrix/system.auth.form/.default/template.php
+Request URI: /
+Script: /index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:516
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:582
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:603
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:552
+	/home/f/forsagc/rinkost/public_html/bitrix/components/bitrix/system.auth.form/component.php:190
+----------
+Host: rinkost.forsagc.tmweb.ru
+Date: 2014-10-06 12:00:00
+Module: Composite was rejected
+Reason: /bitrix/templates/.default/components/bitrix/socserv.auth.form/icons/template.php
+Request URI: /
+Script: /index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:516
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:582
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:603
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:552
+	/home/f/forsagc/rinkost/public_html/bitrix/components/bitrix/socserv.auth.form/component.php:29
+----------
+Host: rinkost.forsagc.tmweb.ru
+Date: 2014-10-06 12:00:00
+Module: Composite was rejected
+Reason: /bitrix/templates/.default/components/bitrix/system.auth.form/.default/template.php
+Request URI: /
+Script: /index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:516
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:582
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:603
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:552
+	/home/f/forsagc/rinkost/public_html/bitrix/components/bitrix/system.auth.form/component.php:190
+----------
+Host: rinkost.forsagc.tmweb.ru
+Date: 2014-10-06 12:00:04
+Module: Composite was rejected
+Reason: /bitrix/templates/.default/components/bitrix/socserv.auth.form/icons/template.php
+Request URI: /forex-trading/trading-conditions/
+Script: /forex-trading/trading-conditions/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:516
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:582
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:603
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:552
+	/home/f/forsagc/rinkost/public_html/bitrix/components/bitrix/socserv.auth.form/component.php:29
+----------
+Host: rinkost.forsagc.tmweb.ru
+Date: 2014-10-06 12:00:04
+Module: Composite was rejected
+Reason: /bitrix/templates/.default/components/bitrix/system.auth.form/.default/template.php
+Request URI: /forex-trading/trading-conditions/
+Script: /forex-trading/trading-conditions/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:516
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:582
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:603
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:552
+	/home/f/forsagc/rinkost/public_html/bitrix/components/bitrix/system.auth.form/component.php:190
+----------
+Host: rinkost.forsagc.tmweb.ru
+Date: 2014-10-06 12:00:07
+Module: Composite was rejected
+Reason: /bitrix/templates/.default/components/bitrix/socserv.auth.form/icons/template.php
+Request URI: /beginners/
+Script: /beginners/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:516
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:582
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:603
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:552
+	/home/f/forsagc/rinkost/public_html/bitrix/components/bitrix/socserv.auth.form/component.php:29
+----------
+Host: rinkost.forsagc.tmweb.ru
+Date: 2014-10-06 12:00:07
+Module: Composite was rejected
+Reason: /bitrix/templates/.default/components/bitrix/system.auth.form/.default/template.php
+Request URI: /beginners/
+Script: /beginners/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:516
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:582
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:603
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:552
+	/home/f/forsagc/rinkost/public_html/bitrix/components/bitrix/system.auth.form/component.php:190
+----------
+Host: rinkost.forsagc.tmweb.ru
+Date: 2014-10-06 12:00:10
+Module: Composite was rejected
+Reason: /bitrix/templates/.default/components/bitrix/socserv.auth.form/icons/template.php
+Request URI: /beginners/faq/
+Script: /beginners/faq/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:516
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:582
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:603
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:552
+	/home/f/forsagc/rinkost/public_html/bitrix/components/bitrix/socserv.auth.form/component.php:29
+----------
+Host: rinkost.forsagc.tmweb.ru
+Date: 2014-10-06 12:00:10
+Module: Composite was rejected
+Reason: /bitrix/templates/.default/components/bitrix/system.auth.form/.default/template.php
+Request URI: /beginners/faq/
+Script: /beginners/faq/index.php
+    Bitrix\Main\Data\StaticHtmlCache::applyComponentFrameMode < CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:516
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component_template.php:582
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:603
+	/home/f/forsagc/rinkost/public_html/bitrix/modules/main/classes/general/component.php:552
+	/home/f/forsagc/rinkost/public_html/bitrix/components/bitrix/system.auth.form/component.php:190
+----------
