@@ -1,0 +1,149 @@
+
+
+
+/* Start:/bitrix/templates/.default/components/bitrix/menu/.default/style.css*/
+/* Left menu*/
+ul.left-menu
+{
+	list-style:none;
+	margin:0; padding:0;
+	margin-bottom:8px;
+	position: relative; /*IE bug*/
+}
+
+ul.left-menu li
+{
+	padding: 10px 16px;
+	background:#F5F5F5 url('/bitrix/templates/.default/components/bitrix/menu/.default/images/left_menu_bg.gif') top repeat-x;
+}
+
+ul.left-menu li a
+{
+	font-size:100%;
+	color:#BC262C;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+ul.left-menu li a:visited
+{
+	color:#BC262C;
+}
+
+ul.left-menu li a:hover
+{
+	color:#BC262C;
+}
+
+
+ul.left-menu li a.selected:link, 
+ul.left-menu li a.selected:visited, 
+ul.left-menu li a.selected:active, 
+ul.left-menu li a.selected:hover
+{
+	color:#FC8D3D;
+}
+
+
+
+/* End */
+
+
+
+/* Start:/bitrix/templates/.default/components/bitrix/menu/secondary/style.css*/
+/* Left menu*/
+ul.left-menu
+{
+	list-style:none;
+	margin:0; padding:0;
+	margin-bottom:8px;
+	position: relative; /*IE bug*/
+}
+
+ul.left-menu li
+{
+	padding: 10px 16px;
+	background:#F5F5F5 url('/bitrix/templates/.default/components/bitrix/menu/secondary/images/left_menu_bg.gif') top repeat-x;
+}
+
+ul.left-menu li a
+{
+	font-size:100%;
+	color:#BC262C;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+ul.left-menu li a:visited
+{
+	color:#BC262C;
+}
+
+ul.left-menu li a:hover
+{
+	color:#BC262C;
+}
+
+
+ul.left-menu li a.selected:link, 
+ul.left-menu li a.selected:visited, 
+ul.left-menu li a.selected:active, 
+ul.left-menu li a.selected:hover
+{
+	color:#FC8D3D;
+}
+
+
+
+/* End */
+
+
+
+/* Start:/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css*/
+.bx_breadcrumbs{
+    margin-bottom:15px;
+    padding-top:0px
+}
+.bx_breadcrumbs ul{
+    margin:0;
+    padding:0
+}
+.bx_breadcrumbs ul li{
+    display:inline-block;
+    line-height:20px
+}
+.bx_breadcrumbs ul li a{
+    display:block;
+    padding:0 15px;
+    background:url('/bitrix/templates/.default/components/bitrix/breadcrumb/.default/images/breadcrumbs_arrow.png') no-repeat center right;
+    color:#555;
+    text-decoration:none;
+    font-size:11px;
+    opacity:.5
+}
+.bx_breadcrumbs ul li:first-child a{padding-left:0}
+.bx_breadcrumbs ul li:last-child  a{background:none}
+.bx_breadcrumbs ul li a:hover{
+    text-decoration:underline;
+    line-height:20px;
+    opacity:1
+}
+.bx_breadcrumbs ul li span{
+    display:block;
+    padding:0 15px;
+    color:#aaa;
+    text-decoration:none;
+    font-size:11px
+}
+.bx_breadcrumbs,
+.bx_breadcrumbs ul li{
+    -webkit-transition:all 0.3s ease;
+    -moz-transition:all 0.3s ease;
+    -ms-transition:all 0.3s ease;
+    -o-transition:all 0.3s ease;
+    transition:all 0.3s ease;
+}
+/* End */
+/* /bitrix/templates/.default/components/bitrix/menu/.default/style.css */
+/* /bitrix/templates/.default/components/bitrix/menu/secondary/style.css */
+/* /bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css */

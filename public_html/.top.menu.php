@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"О компании", 
+		"/about-company/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Торговля на Форекс", 
+		"/forex-trading/trading-conditions/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Инвестиции", 
+		"/investments/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Акции и бонусы", 
+		"/promotions-and-bonuses/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Начинающим", 
+		"/beginners/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Конкурсы", 
+		"/contests/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

@@ -1,0 +1,60 @@
+
+
+
+/* Start:/bitrix/templates/.default/components/bitrix/menu/.default/style.css*/
+/* Left menu*/
+ul.left-menu
+{
+	list-style:none;
+	margin:0; padding:0;
+	margin-bottom:8px;
+	position: relative; /*IE bug*/
+}
+
+ul.left-menu li
+{
+	padding: 10px 16px;
+	background:#F5F5F5 url('/bitrix/templates/.default/components/bitrix/menu/.default/images/left_menu_bg.gif') top repeat-x;
+}
+
+ul.left-menu li a
+{
+	font-size:100%;
+	color:#BC262C;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+ul.left-menu li a:visited
+{
+	color:#BC262C;
+}
+
+ul.left-menu li a:hover
+{
+	color:#BC262C;
+}
+
+
+ul.left-menu li a.selected:link, 
+ul.left-menu li a.selected:visited, 
+ul.left-menu li a.selected:active, 
+ul.left-menu li a.selected:hover
+{
+	color:#FC8D3D;
+}
+
+
+
+/* End */
+
+
+
+/* Start:/bitrix/templates/.default/components/bitrix/system.auth.form/.default/style.css*/
+div.bx-system-auth-form span.bx-auth-secure {background-color:#FFFAE3; border:1px solid #DEDBC8; padding:2px; display:inline-block; vertical-align:bottom; margin-top:-1px;}
+div.bx-system-auth-form div.bx-auth-secure-icon {background-image:url('/bitrix/templates/.default/components/bitrix/system.auth.form/.default/images/sec.png'); background-repeat:no-repeat; background-position:center; width:19px; height:18px;}
+div.bx-system-auth-form div.bx-auth-secure-unlock {background-image:url('/bitrix/templates/.default/components/bitrix/system.auth.form/.default/images/sec-unlocked.png');}
+
+/* End */
+/* /bitrix/templates/.default/components/bitrix/menu/.default/style.css */
+/* /bitrix/templates/.default/components/bitrix/system.auth.form/.default/style.css */

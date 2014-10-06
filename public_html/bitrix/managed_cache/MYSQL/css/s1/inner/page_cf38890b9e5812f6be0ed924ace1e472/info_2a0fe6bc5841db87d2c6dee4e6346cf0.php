@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/templates/.default/components/bitrix/system.auth.form/.default/style.css" => "1411124686442",), 'CUR_SEL_CNT' => '3', 'CUR_IE_CNT' => '0'); ?>

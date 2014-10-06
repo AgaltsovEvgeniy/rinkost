@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001412578094';
+$dateexpire = '001412614094';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:7:{s:23:"backup_last_backup_time";a:1:{i:0;s:10:"1409292361";}s:12:"backup_quota";a:1:{i:0;s:1:"0";}s:17:"backup_total_size";a:1:{i:0;s:1:"0";}s:22:"monitoring_expire_time";a:1:{i:0;s:10:"1412578993";}s:17:"monitoring_result";a:2:{i:0;s:21:"eleron.dev-ravidok.ru";i:1;s:15:"nasha-masha.com";}s:19:"monitoring_result_0";a:3:{s:24:"test_domain_registration";s:120:"a:4:{s:6:"status";s:5:"green";s:4:"time";i:1412547968;s:6:"uptime";s:13:"604800/604800";s:6:"result";s:10:"1419019200";}";s:23:"test_http_response_time";s:102:"a:4:{s:6:"status";s:3:"red";s:4:"time";i:1411850020;s:6:"uptime";s:8:"0/604800";s:6:"result";s:1:"-";}";s:8:"test_lic";s:120:"a:4:{s:6:"status";s:5:"green";s:4:"time";i:1412544976;s:6:"uptime";s:13:"604800/604800";s:6:"result";s:10:"1420833600";}";}s:19:"monitoring_result_1";a:3:{s:24:"test_domain_registration";s:120:"a:4:{s:6:"status";s:5:"green";s:4:"time";i:1412541963;s:6:"uptime";s:13:"604800/604800";s:6:"result";s:10:"1446321600";}";s:23:"test_http_response_time";s:160:"a:4:{s:6:"status";s:5:"green";s:4:"time";i:1412001006;s:6:"uptime";s:13:"604800/604800";s:6:"result";s:50:"time=0.396960s;;10.000000;0.000000 size=31600B;;;0";}";s:8:"test_lic";s:120:"a:4:{s:6:"status";s:5:"green";s:4:"time";i:1412544366;s:6:"uptime";s:13:"604800/604800";s:6:"result";s:10:"1420833600";}";}}}';
+return true;
+?>

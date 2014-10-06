@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/js/fileman/sticker.js" => "140929231976622",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>
